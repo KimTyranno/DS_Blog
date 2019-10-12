@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DS_Blog/static/css/main.b100e6da.chunk.css",
+    "main.js": "/DS_Blog/static/js/main.1bd96ae6.chunk.js",
+    "main.js.map": "/DS_Blog/static/js/main.1bd96ae6.chunk.js.map",
+    "runtime-main.js": "/DS_Blog/static/js/runtime-main.aa1e2b18.js",
+    "runtime-main.js.map": "/DS_Blog/static/js/runtime-main.aa1e2b18.js.map",
+    "static/js/2.f5db97f5.chunk.js": "/DS_Blog/static/js/2.f5db97f5.chunk.js",
+    "static/js/2.f5db97f5.chunk.js.map": "/DS_Blog/static/js/2.f5db97f5.chunk.js.map",
+    "index.html": "/DS_Blog/index.html",
+    "precache-manifest.549bcf963357ae4fcfc7a9cbea2728b3.js": "/DS_Blog/precache-manifest.549bcf963357ae4fcfc7a9cbea2728b3.js",
+    "service-worker.js": "/DS_Blog/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/DS_Blog/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/DS_Blog/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa1e2b18.js",
+    "static/js/2.f5db97f5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1bd96ae6.chunk.js"
+  ]
+}
